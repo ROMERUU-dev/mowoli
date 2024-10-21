@@ -14,14 +14,14 @@ Mowoli requires [Docker](https://www.docker.com) which has to be installed.
 Then clone this repository and change into it:
 
 ```console
-$ git clone https://github.com/ROMERUU-dev/mowoli.git
-$ cd mowoli
+git clone https://github.com/ROMERUU-dev/mowoli.git
+cd mowoli
 ```
 
 Start Mowoli with the following command:
 
 ```console
-$ docker compose up
+docker compose up
 ```
 
 This will start two Docker containers serving...
